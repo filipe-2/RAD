@@ -67,8 +67,8 @@ except FileNotFoundError as erro:
     print("Arquivo inexistente")
     print("Descrição:", erro)'''
 
-try:
+'''try:
     f = open("novo.txt", "r")
     f.write("Hello")
 except IOError as erro:
-    print("O erro foi:", erro)
+    print("O erro foi:", erro)'''

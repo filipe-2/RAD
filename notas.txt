@@ -1,0 +1,3 @@
+Carlos obteve nota 2.0.
+Lucas obteve nota 10.0.
+Maria obteve nota 5.5.
